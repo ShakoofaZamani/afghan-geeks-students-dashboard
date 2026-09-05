@@ -20,3 +20,35 @@ section {
     padding: 20px;
     border: 1px solid #ddd;
 }
+
+
+/* Student card Nargis */
+.student-card {
+    width: 300px;
+    padding: 25px;
+    text-align: center;
+    background-color: #f5f5f5;
+    border-radius: 15px;
+    margin: 50px auto;
+}
+
+.student-card h1 {
+    font-size: 25px;
+}
+
+.student-card img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    background-color: #ddd;
+}
+
+.student-card h2 {
+    margin: 15px 0 5px;
+}
+
+.student-card p {
+    margin: 0;
+    color: #555;
+}
